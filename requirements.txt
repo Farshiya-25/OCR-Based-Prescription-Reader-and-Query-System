@@ -1,0 +1,9 @@
+python-dotenv
+streamlit
+pillow
+pdf2image
+pinecone
+sentence-transformers
+google-generativeai
+docstrange
+numpy
